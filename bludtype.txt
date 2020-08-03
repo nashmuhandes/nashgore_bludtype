@@ -1,9 +1,9 @@
-// Smooth Doom
+// Smooth Doom - added by Nash Muhandes
 XBlood
 BlueBlood
 GreenBlood
 
-// Beautiful Doom
+// Beautiful Doom - added by sibullski
 BD_BloodyFootPrint
 BD_Blood
 BD_BloodPool
