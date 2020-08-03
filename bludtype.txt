@@ -1,0 +1,4 @@
+// Smooth Doom
+XBlood
+BlueBlood
+GreenBlood
