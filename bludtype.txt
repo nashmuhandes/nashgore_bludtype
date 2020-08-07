@@ -16,3 +16,10 @@ bdoom_nobossgibs
 bdoom_livegibs
 AniBloodPool
 TestBlood
+
+// DoomRL Arsenal Monster Pack - added by cubebert
+RLNashGore_Blood
+RLNashGore_CyberBlood
+RLNashGore_BossBlood
+RLNashGore_TechVileBlood
+RLSpectreBlood
