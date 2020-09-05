@@ -23,3 +23,10 @@ RLNashGore_CyberBlood
 RLNashGore_BossBlood
 RLNashGore_TechVileBlood
 RLSpectreBlood
+
+// Hideous Destructor - added by Sirus
+BloodSplat
+BloodSplatSilent
+MegaBloodSplatter
+HDMasterBlood
+CacoShellBlood
