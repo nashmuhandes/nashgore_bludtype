@@ -35,3 +35,18 @@ CacoShellBlood
 BlackBlood
 OrangeBlood
 PurpleBlood
+
+// D4T: Death Foretold - added by OverDriver05
+D4TBlood
+BloodGibDropper
+BloodGibDropperBig
+BloodGib1
+BloodGib2
+BloodGib3
+BloodGib4
+BloodCloud
+BloodCloudMediumBig
+BloodCloudBig
+BloodParticle
+BloodParticleSmall
+NoBloodPuff
