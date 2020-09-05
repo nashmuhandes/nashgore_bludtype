@@ -30,3 +30,8 @@ BloodSplatSilent
 MegaBloodSplatter
 HDMasterBlood
 CacoShellBlood
+
+// Complex Doom - added by sibullski
+BlackBlood
+OrangeBlood
+PurpleBlood
