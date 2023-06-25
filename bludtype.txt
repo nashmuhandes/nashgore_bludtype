@@ -7,15 +7,9 @@ GreenBlood
 BD_BloodyFootPrint
 BD_Blood
 BD_BloodPool
-BD_SSGibControl
 BD_GibBlood
 BD_GibBloodPool
-bdoom_blood
-bdoom_gibs
-bdoom_nobossgibs
-bdoom_livegibs
-AniBloodPool
-TestBlood
+BD_AniBloodPool
 
 // DoomRL Arsenal Monster Pack - added by cubebert
 RLNashGore_Blood
